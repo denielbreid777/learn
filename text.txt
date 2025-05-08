@@ -1,1 +1,8 @@
 Hello!
+git add названифайла
+git  commit -m "название сохраненния "
+git push 
+
+
+
+
